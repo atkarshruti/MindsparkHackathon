@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257270723774",
+    "project_id": "tensorflow-2bd23",
+    "storage_bucket": "tensorflow-2bd23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257270723774:android:1479a7f5d1802302a35aef",
+        "android_client_info": {
+          "package_name": "com.example.tensorflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257270723774-361jmurmghebmgpvlrkhmdsf7ju18114.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9EdbUIjToZAnKmr3lZaX5pNhsgs4VZlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257270723774-361jmurmghebmgpvlrkhmdsf7ju18114.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
